@@ -250,4 +250,3 @@ function libros_user_login(&$edit, $account) {
   drupal_get_destination();
 }
 
-basura
